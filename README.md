@@ -8,7 +8,7 @@
 - [📚 Исследованные книги](books.md)
 - [🖼️ Живопись](paintings.md)
 - [🌳 Открытки](postcards)
-- [Карта](https://andrewalevin.github.io/zvenigorod-map/) [🏰 https://github.com/andrewalevin/zvenigorod-map](https://github.com/andrewalevin/zvenigorod-map)
+- [🗺 Карта](https://andrewalevin.github.io/zvenigorod-map/) [🏰 https://github.com/andrewalevin/zvenigorod-map](https://github.com/andrewalevin/zvenigorod-map)
 
 
 
